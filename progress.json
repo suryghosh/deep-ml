@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:08:20.477Z",
+  "generated_at": "2026-10-28T18:09:00.221Z",
   "items": {
     "math:15": {
       "kind": "math",
@@ -63,6 +63,19 @@
       "last_pushed_at": "2026-10-28T18:08:19.355Z",
       "language": "sql",
       "lines": 6
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-10-28T18:08:59.230Z",
+      "last_pushed_at": "2026-10-28T18:08:59.230Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
