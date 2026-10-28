@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:07:32.082Z",
+  "generated_at": "2026-10-28T18:07:36.799Z",
   "items": {
     "math:15": {
       "kind": "math",
@@ -47,7 +47,7 @@
       "url": "https://www.deep-ml.com/problems/1102",
       "path": "problems/1102-select-specific-columns",
       "first_solved_at": "2026-10-28T18:07:31.232Z",
-      "last_pushed_at": "2026-10-28T18:07:31.232Z",
+      "last_pushed_at": "2026-10-28T18:07:36.110Z",
       "language": "sql",
       "lines": 4
     }
