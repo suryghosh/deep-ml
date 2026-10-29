@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 11 problems · 0 labs · 1 math
+**13** solved · 12 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-28 | [solution](problems/1106-top-n-with-limit) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-28 | [solution](problems/1109-your-first-join) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-29 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 
 ## Math
 
