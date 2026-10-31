@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 20 problems · 0 labs · 1 math
+**22** solved · 21 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-29 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-10-31 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-28 | [solution](problems/1109-your-first-join) |
+| [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-10-31 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-10-30 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-10-31 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
