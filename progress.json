@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:34:29.839Z",
+  "generated_at": "2026-11-03T10:48:08.420Z",
   "items": {
     "math:15": {
       "kind": "math",
@@ -306,6 +306,19 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-10-31T16:34:27.440Z",
       "last_pushed_at": "2026-10-31T16:34:27.440Z"
+    },
+    "problem:1116": {
+      "kind": "problem",
+      "id": "1116",
+      "title": "Running Total and Moving Average with Window Frames",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1116",
+      "path": "problems/1116-running-total-and-moving-average-with-window-frames",
+      "first_solved_at": "2026-11-03T10:48:07.018Z",
+      "last_pushed_at": "2026-11-03T10:48:07.018Z",
+      "language": "sql",
+      "lines": 16
     }
   }
 }
