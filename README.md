@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 25 problems · 0 labs · 3 math
+**29** solved · 26 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-29 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-28 | [solution](problems/1103-filter-rows-with-where) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-10-29 | [solution](problems/1151-first-n-fibonacci-numbers) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-11-05 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-28 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-28 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-28 | [solution](problems/1102-select-specific-columns) |
