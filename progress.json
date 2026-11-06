@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:41:03.217Z",
+  "generated_at": "2026-11-06T18:26:26.622Z",
   "items": {
     "math:15": {
       "kind": "math",
@@ -410,6 +410,19 @@
       "last_pushed_at": "2026-11-06T17:40:50.818Z",
       "language": "sql",
       "lines": 15
+    },
+    "problem:1122": {
+      "kind": "problem",
+      "id": "1122",
+      "title": "Each Customer's Lowest-Priced Order",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1122",
+      "path": "problems/1122-each-customer-s-lowest-priced-order",
+      "first_solved_at": "2026-11-06T18:26:24.328Z",
+      "last_pushed_at": "2026-11-06T18:26:24.328Z",
+      "language": "sql",
+      "lines": 14
     }
   }
 }

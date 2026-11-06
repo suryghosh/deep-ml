@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 29 problems · 0 labs · 3 math
+**33** solved · 30 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-28 | [solution](problems/1109-your-first-join) |
 | [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-10-31 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Days Warmer Than the Previous Day](https://www.deep-ml.com/problems/1118) | medium | 2026-11-03 | [solution](problems/1118-days-warmer-than-the-previous-day) |
+| [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-11-06 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-10-30 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-04 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
