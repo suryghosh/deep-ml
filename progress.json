@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:52:23.825Z",
+  "generated_at": "2026-11-06T04:15:10.246Z",
   "items": {
     "math:15": {
       "kind": "math",
@@ -371,6 +371,19 @@
       "last_pushed_at": "2026-11-05T13:52:21.996Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1129": {
+      "kind": "problem",
+      "id": "1129",
+      "title": "Merge Multiple DataFrames",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1129",
+      "path": "problems/1129-merge-multiple-dataframes",
+      "first_solved_at": "2026-11-06T04:15:09.425Z",
+      "last_pushed_at": "2026-11-06T04:15:09.425Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
