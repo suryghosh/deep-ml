@@ -9,3 +9,4 @@ with rank_per_dept as(
 select *
 from rank_per_dept
 where rnk<=3
+order by department asc,salary desc,name asc
