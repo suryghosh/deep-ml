@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 32 problems · 0 labs · 3 math
+**36** solved · 32 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-31 | [solution](math/0001-derivatives-and-gradients) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-31 | [solution](math/0011-determinants-and-trace) |
+| [Join Row Counts: Duplicate Keys, Unmatched Rows and NULLs](https://www.deep-ml.com/math-problems/647) | medium | 2026-11-15 | [solution](math/0647-join-row-counts-duplicate-keys-unmatched-rows-and-nulls) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-27 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
